@@ -15,3 +15,7 @@ A FastAPI-based semantic search system with caching and precomputed embeddings.
 git clone <repo_url>
 cd semantic-search-system
 pip install -r requirements.txt
+
+
+# Note
+This project is submitted as-is without running the FastAPI server. Dependencies are listed in requirements.txt.
